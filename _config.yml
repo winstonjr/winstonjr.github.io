@@ -2,7 +2,8 @@
 title: At Least Once
 email: winston@autonotools.net
 description: > # this means to ignore newlines until "baseurl:"
-  "Do or do not, there is no try". Sempre gostei dessa frase e esse blog é uma tentativa de fazer ao invés de pensar em fazer. =D
+  "Do or do not, there is no try". This is my first atempt to make a blog and return the training of my english.
+  Any mistakes, send me a tip, I will be happy to change and make it correct.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://atleastonce.io" # the base hostname & protocol for your site
 google_analytics: #your GA unique id, e.g. UA-xxxxxxxx-x
