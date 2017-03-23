@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   "Do or do not, there is no try". This is my first atempt to make a blog and return the training of my english.
   Any mistakes, send me a tip, I will be happy to change and make it correct.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "blog.atleastonce.io" # the base hostname & protocol for your site
+url: "htto://blog.atleastonce.io" # the base hostname & protocol for your site
 google_analytics: UA-96102624-1
 disqus_username: winston_jr
 
@@ -15,8 +15,8 @@ linkedin: winstonjr
 twitter:
   username: #twitter username here
 facebook:
-  app_id: 1234
-  publisher: 1234
+  app_id: 
+  publisher: 
 google_plus: #gplus id or username
 ads: false # add your ad code in _includes/ad.html file
 
