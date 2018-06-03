@@ -50,3 +50,5 @@ exclude:
 
 paginate: 5
 paginate_path: 'p/:num'
+
+theme: jekyll-theme-hacker
